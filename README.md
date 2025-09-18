@@ -1,0 +1,2 @@
+# Integrated-Retail-Analytics-for-Store-Optimisation-and-Demand-Forecasting
+Developed an ML framework for retail analytics to forecast demand, segment stores, &amp; detect anomalies. A Random Forest model accurately predicts weekly sales (R  2  =0.81). K-Means clustered 45 stores into 3 tiers for targeted strategies. This suite of tools provides actionable insights to boost efficiency, reduce costs, &amp; drive growth.
